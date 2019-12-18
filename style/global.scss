@@ -1,0 +1,31 @@
+body, h1, h2, h3, h4, span, div, button, input {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    font-size: 62.5%;
+}
+
+.wrapper {
+    max-width: 90vw;
+    margin: 0 5vw;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
